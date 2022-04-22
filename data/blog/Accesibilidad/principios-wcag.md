@@ -1,9 +1,9 @@
 ---
-title: Sample .md file
-date: '2016-03-08'
-tags: ['markdown', 'code', 'features']
+title: Los principios WCAG
+date: '2022-05-01'
+tags: ['accesibilidad', 'WCAG']
 draft: false
-summary: Example of a markdown file with code blocks and syntax highlighting
+summary: La mejor manera de evaluar nuestra accesibilidad web es conociendo los principios de la WCAG
 ---
 
 A sample post with markdown.
