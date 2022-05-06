@@ -10,7 +10,7 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
+  email: 'vancorcodes@gmail.com',
   github: 'https://github.com/vanecordero',
   twitter: 'https://twitter.com/vancorcodes',
   //facebook: 'https://facebook.com',
