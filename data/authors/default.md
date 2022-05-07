@@ -3,7 +3,7 @@ name: VanCor Codes🌺
 avatar: /static/images/avatar.png
 occupation: Frontend Developer
 company: 🌌
-email: vancor.codes@gmail.com
+email: vancorcodes@gmail.com
 twitter: https://twitter.com/vancorcodes
 linkedin: https://www.linkedin.com/in/vane-cordero
 github: https://github.com/vanecordero
