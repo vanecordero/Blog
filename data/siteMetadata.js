@@ -2,7 +2,8 @@ const siteMetadata = {
   title: 'VanCor Codes Blog',
   author: 'VanCor Codes',
   headerTitle: 'VanCor Codes',
-  description: 'Un simple blog sobre las cosas que he ido aprendiendo como desarrolladora',
+  description:
+    'Bienvenido a mi blog donde comparto las cosas que voy aprendiendo en este bello mundo del desarrollo de software.',
   language: 'es-ES',
   theme: 'system', // system, dark or light
   siteUrl: 'https://vancorcodes.com/',
@@ -54,7 +55,7 @@ const siteMetadata = {
       // Place the comment box above the comments. options: bottom, top
       inputPosition: 'bottom',
       // Choose the language giscus will be displayed in. options: en, es, zh-CN, zh-TW, ko, ja etc
-      lang: 'en',
+      lang: 'es',
       // theme when dark mode
       darkTheme: 'transparent_dark',
       // If the theme option above is set to 'custom`
