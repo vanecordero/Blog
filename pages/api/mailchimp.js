@@ -1,4 +1,4 @@
-import mailchimp from '@mailchimp/mailchimp_marketing'
+/*import mailchimp from '@mailchimp/mailchimp_marketing'
 
 mailchimp.setConfig({
   apiKey: process.env.MAILCHIMP_API_KEY,
@@ -23,3 +23,4 @@ export default async (req, res) => {
     return res.status(500).json({ error: error.message || error.toString() })
   }
 }
+*/
