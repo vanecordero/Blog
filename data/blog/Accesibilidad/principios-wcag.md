@@ -6,9 +6,9 @@ draft: false
 summary: Aunque las WCAG no son perfectas, es muy importante conocer y tener presente sus 4 principios para poder evaluar la accesibilidad en nuestros desarrollos.
 ---
 
-La accesibilidad web es un tema por el que tengo especial interés. A mi juicio toda persona debe tener acceso a los recursos web que tanto nos ayudan a crecer personal y profesionalmente (Así mismo que nos entretienen 😉).
+La accesibilidad web es un tema por el que tengo especial interés. A mi juicio, toda persona debe tener acceso a los recursos web que tanto nos ayudan a crecer personal y profesionalmente (así como también nos entretienen 😉).
 
-Sin embargo antes que nada, conviene subrayar qué es la accesibilidad y qué c#%”8!😤 significa esto de la WCAG.
+Sin embargo, conviene subrayar qué es la accesibilidad y qué c#%”8!😤 significa esto de la WCAG, antes de comenzar con sus principios.
 
 La **accesibilidad** web no es más que un concepto de desarrollo que busca **asegurar una buena experiencia de usuario para las personas con capacidades reducidas**.
 
@@ -20,17 +20,17 @@ _Cito de su página:_
 
 > Los documentos WCAG explican cómo hacer el contenido web más accesible para las personas con discapacidad. Por “contenido” web se hace referencia, generalmente, a la información que se puede encontrar en una página o aplicación web, lo cual incluye: Información natural como textos, imágenes y sonidos; Código o marcado que define la estructura, la presentación, etc.
 
-Dentro de las WCAG tenemos 12 criterios, que a su vez se divide cada uno en 3 niveles que determinan el nivel de inversión que se hará en accesibilidad. Nivel A (básico), Nivel AA (Intermedio) y Nivel AAA (Más alto). Pero esto ya lo dejaré para otro artículo.
+Dentro de las WCAG tenemos 12 criterios, que a su vez se divide cada uno en 3 niveles que determinan el nivel de inversión que se hará en accesibilidad. Nivel A (básico), Nivel AA (Intermedio) y Nivel AAA (Más alto). _Esto último lo dejaré para otro artículo._
 
 _Ahora se viene lo bueno…_ 🤓
 
 ## Principios de WCAG
 
-Las WCAG no son perfectas, pero es muy importante tener presente sus 4 principios para que nuestras páginas web sean más accesibles, trate de ser lo más llana posible en la descripción de los mismos:
+Las WCAG no son perfectas, pero es muy importante tener presente sus 4 principios para que nuestras páginas web sean más accesibles. _Trate de ser lo más llana posible en la descripción de los mismos_:
 
 1. **Perceptible: Todo lo que presentes en la web debe ser percibido por tus usuarios** _(que les llegue al cerebro y lo interpreten)_.
 
-   Por ejemplo, quieres mostrar una información a tus usuarios pero solo tienes una manera de mostrar esa información, dígase visualmente por la interfaz gráfica pero tus usuarios no tienen acceso a la pantalla o no tiene la visión, esos usuarios no podrán recibir esa información. Entonces lo ideal sería apoyarse también de un formato más accesible como lo es el texto. El texto suele ser uno de los elementos más perceptibles ya que puede ser leído por el usuario o por un lector de pantalla, traducido, ampliado, etc.
+   Por ejemplo, quieres mostrar una información a tus usuarios pero solo tienes una manera de mostrar esa información, dígase visualmente por la interfaz gráfica pero tus usuarios no tienen acceso a la pantalla o no tiene la visión, como resultado esos usuarios no podrán recibir esa información. Entonces lo ideal sería apoyarse también de un formato más accesible como lo es el texto. El texto suele ser uno de los elementos más perceptibles ya que puede ser leído por el usuario o por un lector de pantalla, traducido, ampliado, etc.
 
 2. **Operable: Tu web no debe depender de un ratón o de un teclado** para que cualquier usuario que por cualquier motivo no disponga de estos dispositivos pueda tener alternativas para operar tu sitio.
 
